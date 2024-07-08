@@ -1,1 +1,1 @@
-# figureonelab
+# FigureOneLab
