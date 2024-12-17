@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pandas
+scipy
+anndata
+scanpy
+pybiomart
+scvi-tools
+torch
+seaborn
+celltypist
