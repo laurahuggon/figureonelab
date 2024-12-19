@@ -9,3 +9,4 @@ scvi-tools
 torch
 seaborn
 celltypist
+scikit-image
